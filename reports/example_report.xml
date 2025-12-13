@@ -1,0 +1,7 @@
+<scan_results>
+  <vulnerability>
+    <name>Open Port 80</name>
+    <severity>Medium</severity>
+    <description>Port is open and accepting connections</description>
+  </vulnerability>
+</scan_results>

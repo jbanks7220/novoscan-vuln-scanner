@@ -1,0 +1,1 @@
+- **Open Port 80** (Medium): Port is open and accepting connections

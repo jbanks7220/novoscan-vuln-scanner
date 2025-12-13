@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Open Port 80",
+    "description": "Port is open and accepting connections",
+    "severity": "Medium"
+  }
+]
