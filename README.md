@@ -175,7 +175,8 @@ Plugin system for custom checks
 ## 👨‍💻 Author
 
 Built by Jamir Banks
-Cybersecurity Engineer | Offensive & Defensive Tooling
+
+Navy veteran & former CTR | Cybersecurity hobbyist | Signals intelligence & secure comms background | Focused on defense, recon & red team skills
 
 If you’re a recruiter:
 
